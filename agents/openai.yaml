@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Mod E2E Pipeline"
+  short_description: "Build, hook, and automate in-engine E2E tests for PC game mods"
+  default_prompt: "Use $game-mod-e2e to set up the build/deploy pipeline, in-engine Named Pipe test bridge, and automated E2E test matrix for this game mod."

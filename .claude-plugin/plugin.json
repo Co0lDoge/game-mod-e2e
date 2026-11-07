@@ -1,0 +1,14 @@
+{
+  "name": "game-mod-e2e",
+  "description": "End-to-end engineering, build/deploy, and automated in-engine verification pipeline for PC game mods across any genre or engine (with or without a modding SDK).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Co0lDoge",
+    "url": "https://github.com/Co0lDoge"
+  },
+  "homepage": "https://github.com/Co0lDoge/game-mod-e2e",
+  "repository": "https://github.com/Co0lDoge/game-mod-e2e",
+  "license": "MIT",
+  "keywords": ["gamedev", "modding", "e2e-testing", "automation", "reverse-engineering", "directx", "cpp"],
+  "skills": ["./"]
+}
